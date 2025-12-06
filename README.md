@@ -7,10 +7,7 @@ I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, a
 
 # 🧩 Badge Board
 
-![Wakatime](https://wakatime.com/badge/user/bf6e341a-d20e-4d73-a40a-484646c1f8f8.svg)
 ![Code Time](https://img.shields.io/badge/Code%20Time-1000%2B%20hrs-blue?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Coffee-Powered-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=automationlife&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/automationlife?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/automationlife?affiliations=OWNER&style=social)
@@ -23,6 +20,7 @@ I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, a
 ![SRE](https://img.shields.io/badge/SRE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Observability](https://img.shields.io/badge/Observability-FF6F00?style=for-the-badge&logo=grafana&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-5C2D91?style=for-the-badge&logo=security&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-Powered-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 ---
 
