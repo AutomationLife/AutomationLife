@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhijith (automationlife)
+# 👋 Hi, I’m Abhijith Swamy Miriyala (automationlife)
 
 I’m a **Senior Software Engineer II – DevOps & Cloud** with 7+ years of experience designing scalable cloud platforms, automating CI/CD pipelines, enforcing DevSecOps practices, and improving observability & reliability for production systems.  
 I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, and I enjoy mentoring upcoming engineers.
