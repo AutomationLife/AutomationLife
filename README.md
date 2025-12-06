@@ -35,7 +35,7 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 ### 📊 Monitoring & Logging  
 ![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
-![Prometheus](https://img.shields.io.badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)  
 
@@ -52,26 +52,33 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<!-- Stats cards, fallback included -->
+## 📊 GitHub Stats & Activity
 
 <p align="center">
 
   <!-- GitHub Stats Card -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight"  
-       onerror="this.style.display='none'" />
+  <img 
+    alt="Abhijith's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight" 
+  />
 
   <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight"  
-       onerror="this.style.display='none'" />
+  <img 
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight" 
+  />
 
   <!-- Contribution Graph -->
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark"  
-       onerror="this.style.display='none'" />
+  <img 
+    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark" 
+  />
 
   <!-- Streak Stats -->
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight"  
-       onerror="this.style.display='none'" />
+  <img 
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight" 
+  />
 
 </p>
 
@@ -91,6 +98,3 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 - **Mail:** abhijith.swamy7@gmail.com  
 
 ---
-
-## 💡 How Fallback Works  
-If any of the stats cards fail (due to rate limits or service downtime), the `onerror="this.style.display='none'"` attribute makes the image disappear — keeping your README clean and readable.  
