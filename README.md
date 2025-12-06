@@ -1,8 +1,3 @@
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight) 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
-
 👋 Hi, I’m Abhijith Swamy Miriyala
 
 Senior Software Engineer II – DevOps & Cloud | AWS | Kubernetes | CI/CD | DevSecOps
@@ -87,3 +82,8 @@ I’m a DevOps & Cloud Engineer with 7+ years of experience designing secure, sc
 
 🔗 LinkedIn: linkedin.com/in/abhijithmiriyala
 📧 Email: abhijith.swamy7@gmail.com
+
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AutomationLife&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutomationLife&layout=compact&theme=tokyonight) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
