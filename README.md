@@ -78,7 +78,7 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 ---
 
 ## 📫 Contact & Connect  
-- [**LinkedIn:** [linkedin.com/in/abhijithmiriyala](https://linkedin.com/in/abhijithmiriyala) ](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight&cachebuster=1) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijithmiriyala)
 - **Mail:** abhijith.swamy7@gmail.com  
 
 ---
