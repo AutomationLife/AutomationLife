@@ -7,12 +7,16 @@ I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, a
 
 # 🧩 Badge Board
 
+![Wakatime](https://wakatime.com/badge/user/bf6e341a-d20e-4d73-a40a-484646c1f8f8.svg)
+![Code Time](https://img.shields.io/badge/Code%20Time-1000%2B%20hrs-blue?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee-Powered-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=automationlife&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/automationlife?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/automationlife?affiliations=OWNER&style=social)
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Developer](https://img.shields.io/badge/Developer_Mode-000000?style=for-the-badge&logo=dev.to&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A020F0?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -92,5 +96,5 @@ I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, a
 ---
 
 # 📫 Contact & Connect  
-- **LinkedIn:** https://linkedin.com/in/abhijithmiriyala  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijithmiriyala)
 - **Mail:** abhijith.swamy7@gmail.com  
