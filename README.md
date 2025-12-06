@@ -95,4 +95,4 @@ I specialize in **AWS, Kubernetes, CI/CD, Automation, Security & Monitoring**, a
 
 # 📫 Contact & Connect  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijithmiriyala)
-- **Mail:** abhijith.swamy7@gmail.com  
+- [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijith.swamy7@gmail.com)  
