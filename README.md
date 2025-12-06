@@ -10,11 +10,11 @@ I’m a DevOps & Cloud Engineer with 7+ years of experience designing secure, sc
 
 Cloud & Infra
 
-AWS (EC2, ECR, Lambda, IAM, S3, Route53, CloudWatch) • Terraform • Serverless
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) (EC2, ECR, Lambda, IAM, S3, Route53, CloudWatch) • ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white) • Serverless
 
 Containers & Orchestration
 
-Docker • Kubernetes • Helm • EKS
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) • ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) • Helm • EKS
 
 CI/CD & Automation
 
@@ -56,9 +56,3 @@ Python • Shell • Automation Frameworks
 
 🔗 LinkedIn: linkedin.com/in/abhijithmiriyala
 📧 Email: abhijith.swamy7@gmail.com
-
-⭐ Core Skills & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
