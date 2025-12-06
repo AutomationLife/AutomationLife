@@ -1,89 +1,96 @@
-👋 Hi, I’m Abhijith Swamy Miriyala
+# 👋 Hi, I’m Abhijith (automationlife)
 
-Senior Software Engineer II – DevOps & Cloud | AWS | Kubernetes | CI/CD | DevSecOps
+I’m a **Senior Software Engineer II – DevOps & Cloud** with 7+ years of experience building and managing scalable cloud/DevOps platforms.  
+I specialize in AWS, Kubernetes, CI/CD automation, security & observability — and I love mentoring and helping teams grow.  
 
-I’m a DevOps & Cloud Engineer with 7+ years of experience designing secure, scalable cloud platforms and enabling engineering teams to ship reliable software faster. I specialize in AWS, Kubernetes, CI/CD automation, infrastructure-as-code, and observability tooling.
+---
 
-⸻
+## 🛠️ Tech Stack & Skills
 
-🛠️ Tech Stack
+### ☁️ Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![ECR](https://img.shields.io/badge/ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)  
+![S3](https://img.shields.io/badge/S3-%23DD344C.svg?style=for-the-badge&logo=amazons3&logoColor=white)  
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)  
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)  
 
-☁️ Cloud & Infra
+### 🐳 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)  
+![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)  
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-%23DD344C.svg?style=for-the-badge&logo=awsiam&logoColor=white)
-![S3](https://img.shields.io/badge/S3-%23DD344C.svg?style=for-the-badge&logo=amazons3&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+### 🔄 CI/CD & Automation  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-F5792A?style=for-the-badge&logo=argo&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-41A047?style=for-the-badge&logo=jfrog&logoColor=white)  
 
-🐳 Containers & Orchestration
+### 📊 Monitoring & Logging  
+![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Prometheus](https://img.shields.io.badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)  
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+### 🔐 Security & Governance  
+![Qualys](https://img.shields.io/badge/Qualys-DD0031?style=for-the-badge&logo=qualys&logoColor=white)  
+![DevSecOps](https://img.shields.io/badge/DevSecOps-5C2D91?style=for-the-badge&logo=security&logoColor=white)  
+![SAST/DAST](https://img.shields.io/badge/SAST%2FDAST-FF5733?style=for-the-badge&logo=dependabot&logoColor=white)  
+![IAM Governance](https://img.shields.io/badge/IAM_Governance-2E86C1?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-🛠 CI/CD & Automation
+### 🧑‍💻 Scripting & Automation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)  
+![Automation Frameworks](https://img.shields.io/badge/Automation_Frameworks-00A86B?style=for-the-badge&logo=robotframework&logoColor=white)  
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-F5792A?style=for-the-badge&logo=argo&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-41A047?style=for-the-badge&logo=jfrog&logoColor=white)
+---
 
-📊 Monitoring & Logging
+## 📊 GitHub Stats & Activity  
+<!-- Stats cards, fallback included -->
 
-![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+<p align="center">
 
-🔐 Security
+  <!-- GitHub Stats Card -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight"  
+       onerror="this.style.display='none'" />
 
-![Qualys](https://img.shields.io/badge/Qualys-DD0031?style=for-the-badge&logo=qualys&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-5C2D91?style=for-the-badge&logo=security&logoColor=white)
-![SAST/DAST](https://img.shields.io/badge/SAST%2FDAST-FF5733?style=for-the-badge&logo=dependabot&logoColor=white)
-![IAM Governance](https://img.shields.io/badge/IAM_Governance-2E86C1?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight"  
+       onerror="this.style.display='none'" />
 
-🧑‍💻 Scripting & Automation
+  <!-- Contribution Graph -->
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark"  
+       onerror="this.style.display='none'" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation_Frameworks-00A86B?style=for-the-badge&logo=robotframework&logoColor=white)
+  <!-- Streak Stats -->
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight"  
+       onerror="this.style.display='none'" />
 
-⸻
+</p>
 
-🚀 What I Do
-	•	Build & operate production-grade cloud infrastructure
-	•	Automate deployments with CI/CD pipelines
-	•	Secure cloud workloads with DevSecOps practices
-	•	Enable observability with dashboards, logs & tracing
-	•	Mentor fresh graduates and industry engineers transitioning into Cloud/DevOps
+---
 
-⸻
+## 🔭 Current Focus  
+- Platform engineering & Cloud architecture (AWS + Kubernetes)  
+- Building scalable, secure CI/CD and DevSecOps pipelines  
+- Observability, logging, and monitoring for high-availability systems  
+- Mentoring and training upcoming DevOps engineers and fresh graduates  
+- Cloud cost optimization & automation of infrastructure workflows  
 
-📈 Current Focus
+---
 
-✔ Platform engineering
-✔ Cloud cost optimization
-✔ Improving developer productivity
-✔ Training future DevOps engineers
+## 📫 Contact & Connect  
+- **LinkedIn:** [linkedin.com/in/abhijithmiriyala](https://linkedin.com/in/abhijithmiriyala)  
+- **Mail:** abhijith.swamy7@gmail.com  
 
-⸻
+---
 
-📫 Connect With Me
-
-🔗 LinkedIn: linkedin.com/in/abhijithmiriyala
-📧 Email: abhijith.swamy7@gmail.com
-
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight&cache_seconds=86400)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AutomationLife&theme=react-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
+## 💡 How Fallback Works  
+If any of the stats cards fail (due to rate limits or service downtime), the `onerror="this.style.display='none'"` attribute makes the image disappear — keeping your README clean and readable.  
