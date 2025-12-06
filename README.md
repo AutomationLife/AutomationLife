@@ -55,7 +55,7 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 ## 📊 GitHub Stats & Activity
 
 ### 🔹 GitHub Stats
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight)
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight&cachebuster=1)
 
 ### 🔹 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight)
