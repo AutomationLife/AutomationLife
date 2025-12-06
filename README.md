@@ -83,7 +83,7 @@ I’m a DevOps & Cloud Engineer with 7+ years of experience designing secure, sc
 🔗 LinkedIn: linkedin.com/in/abhijithmiriyala
 📧 Email: abhijith.swamy7@gmail.com
 
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AutomationLife&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutomationLife&layout=compact&theme=tokyonight)
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight&cache_seconds=86400)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AutomationLife&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
