@@ -54,33 +54,17 @@ I specialize in AWS, Kubernetes, CI/CD automation, security & observability — 
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+### 🔹 GitHub Stats
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight)
 
-  <!-- GitHub Stats Card -->
-  <img 
-    alt="Abhijith's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight" 
-  />
+### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight)
 
-  <!-- Top Languages -->
-  <img 
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight" 
-  />
+### 🔹 Contribution Graph
+![Abhijith's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark)
 
-  <!-- Contribution Graph -->
-  <img 
-    alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark" 
-  />
-
-  <!-- Streak Stats -->
-  <img 
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight" 
-  />
-
-</p>
+### 🔹 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
 
 ---
 
