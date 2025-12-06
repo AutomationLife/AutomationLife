@@ -1,4 +1,4 @@
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithswamy&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithswamy&layout=compact&theme=tokyonight) 
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithswamy&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithswamy&layout=compact&theme=tokyonight) 
 👋 Hi, I’m Abhijith Swamy Miriyala
 
 Senior Software Engineer II – DevOps & Cloud | AWS | Kubernetes | CI/CD | DevSecOps
