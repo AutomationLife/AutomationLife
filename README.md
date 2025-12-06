@@ -1,7 +1,7 @@
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithswamy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithswamy&layout=compact&theme=tokyonight) 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijithswamy&theme=react-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhijithswamy&theme=tokyonight)
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=automationlife&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automationlife&layout=compact&theme=tokyonight) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=automationlife&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=automationlife&theme=tokyonight)
 
 👋 Hi, I’m Abhijith Swamy Miriyala
 
