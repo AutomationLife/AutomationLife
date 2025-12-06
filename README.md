@@ -56,3 +56,9 @@ Python • Shell • Automation Frameworks
 
 🔗 LinkedIn: linkedin.com/in/abhijithmiriyala
 📧 Email: abhijith.swamy7@gmail.com
+
+⭐ Core Skills & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
